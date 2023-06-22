@@ -139,8 +139,8 @@ ul {
   justify-content: right;
   font-size: 30px;
   font-weight: 200;
-  margin-left: 250px;
-  padding: 10px;
+  margin-left: 400px;
+  padding: 0px;
   justify-content: space-between;
    margin-top: 120px;
    font-weight: 600;
@@ -192,7 +192,7 @@ footer {
   width: 960px;
   background-color: coral;
   display: flex;
-  border-style: solid;
+  border-style: inset;
   border-color: black;
   border-width: 5px;
   height: 180px;
