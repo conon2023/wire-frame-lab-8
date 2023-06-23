@@ -5,8 +5,8 @@ body {
   font-family: "monospace";
   padding-top: 2rem;
   width: 960px;
-  justify-content: center;
   padding-left: 0px;
+  margin: 0 auto;
   
 }
 
@@ -38,7 +38,9 @@ display: block;
   flex-direction:row;
   font-size: 58px;
   font-weight: 100px;
-  margin-right: 0px;
+  margin-bottom: 15px;
+
+
   
 }
 .imagesection {
@@ -157,14 +159,21 @@ h2 {
   
 }
 
-.hero-image-container {
-    background-color: darkslateblue
+.hero-image {
+  background-color: chartreuse;
+  width: 960px;
+  height: 450px;
+  
+    
+    
+    
+    
        
   }
   .navigation {
     position: absolute;
     bottom: 590px;
-    right: 600px;
+    right: 350px;
   }
     .navigation-list {
         display: flex;
